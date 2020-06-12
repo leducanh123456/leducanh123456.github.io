@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.so1 {
+    background-image: url(2.jpg);
+    height: 700px;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.ndso1 {
+    width: 900px;
+    margin: 0 auto;
+    text-align: right;
+    font-size: 44px;
+    color: black;
+}
+
+.chunho {
+    padding-top: 250px;
+    font-size: 25px;
+}
+
+.chuto {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.shop {
+    background-color: black;
+    display: inline-block;
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+}
+
+.shop:hover {
+    background-color: transparent;
+    display: inline-block;
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    border: 2px solid black;
+}
+
+.so2 {
+    text-align: center;
+    background-image: url(1.jpg);
+    height: 950px;
+    background-attachment: fixed;
+}
+
+.so2 .chuto {
+    color: deepskyblue;
+}
+
+.so3 {
+    text-align: center;
+    background-image: url(3.jpg);
+    height: 950px;
+    background-attachment: fixed;
+}
+
+.so3 .chuto {
+    color: deepskyblue;
+}
+
+.so4 {
+    text-align: center;
+    background-image: url(4.jpg);
+    height: 950px;
+    background-attachment: fixed;
+}
+
+.so4 .chuto {
+    color: deepskyblue;
+}
+
+.so5 {
+    text-align: center;
+    background-image: url(5.jpg);
+    height: 950px;
+    background-attachment: fixed;
+}
+
+.so5 .chuto {
+    color: deepskyblue;
+}
